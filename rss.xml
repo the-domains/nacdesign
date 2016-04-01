@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NACdesign]]></title>
         <description><![CDATA[NACdesign]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nacdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 18:51:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 20:43:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nacdesign/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4f130a1-549c-4e5e-9e45-04cfb3ab7ce9.png">]]></description>
-            <link>undefinedblog-nac-design/index.html</link>
+            <link>https://thegrid.ai/nacdesign/blog-nac-design/index.html</link>
             <guid isPermaLink="false">b5a01c14-a8b3-4841-bcd5-a0fe7b54d66a</guid>
-            <pubDate>Fri, 01 Apr 2016 18:51:24 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 20:43:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
