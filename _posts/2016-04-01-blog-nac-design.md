@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Blog NAC design
-datePublished: '2016-04-01T18:51:24.258Z'
-dateModified: '2016-04-01T18:49:49.131Z'
+datePublished: '2016-04-01T20:43:17.417Z'
+dateModified: '2016-04-01T20:33:14.785Z'
 title: ''
 author: []
 authors: []
