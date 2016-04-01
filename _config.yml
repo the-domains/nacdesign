@@ -1,7 +1,7 @@
 name: NACdesign
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.69891
+layout_spectrum: 0.24832
+typography_spectrum: 0.0919
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#f85751'
     - '#0b031e'
     - '#d6021e'
-  brandStrength: 1
-  lightness: 0.75
-  saturation: 0.5625
-  rhythmicContrast: 0.25
+  brandStrength: 0.375
+  lightness: 0.4375
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
